@@ -1,0 +1,16 @@
+body{
+  --tw-bg-opacity: 1;
+    background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+}
+
+
+
+.title {
+  color: white;
+  background-color: #5a5608;
+  margin-bottom: 10px;
+  height: 50px;
+  top: 0;
+  position: static;
+  border-bottom: 1px solid #5a5608;
+}
